@@ -5,9 +5,9 @@
 <a href="https://www.linkedin.com/in/devansh-karia/">
   <img align="left" alt="Devansh Karia" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/dtv9558tisremh6c1beqk9w9k">
+<!-- <a href="https://open.spotify.com/user/dtv9558tisremh6c1beqk9w9k">
   <img align="left" alt="Devansh's spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
-</a>
+</a> -->
 <!-- <a href="https://www.reddit.com/user/geekyabhi/">
   <img align="left" alt="Abhishek's Reddit" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/reddit.svg" />
 </a> -->
