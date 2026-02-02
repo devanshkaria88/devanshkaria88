@@ -30,6 +30,7 @@ Building end-to-end systems across web, mobile, cloud — now deeply into AI & a
 - **Adam&Eve** — AI Voice Agent @ Iterate RL Hackathon (2025)
 - **SupplyMinds** — 1st Place @ Epiminds × Lovable × Anthropic Hackathon (2025)
 - **Titan** — 4th Place @ Saturn × EF Hackathon / Foundathon (2026)
+- **PropVal** - 2nd Place @ UCL, PGIM and ScanSan RealTech Hackathon (2026)
 
 ---
 
