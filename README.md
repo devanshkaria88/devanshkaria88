@@ -31,6 +31,7 @@ Building end-to-end systems across web, mobile, cloud — now deeply into AI & a
 - **SupplyMinds** — 1st Place @ Epiminds × Lovable × Anthropic Hackathon (2025)
 - **Titan** — 4th Place @ Saturn × EF Hackathon / Foundathon (2026)
 - **PropVal** - 2nd Place @ UCL, PGIM and ScanSan RealTech Hackathon (2026)
+- **MeritMind** - 1st Place @ Cursor × MiniMax Hackathon - Northampton (2026)
 
 ---
 
@@ -70,18 +71,6 @@ Building end-to-end systems across web, mobile, cloud — now deeply into AI & a
 ![Anthropic](https://img.shields.io/badge/Anthropic-191919?style=for-the-badge)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
 ![Python](https://img.shields.io/badge/LLM%20Agents-8A2BE2?style=for-the-badge)
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=devanshkaria88&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=devanshkaria88&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
