@@ -32,6 +32,10 @@ Building end-to-end systems across web, mobile, cloud — now deeply into AI & a
 - **Titan** — 4th Place @ Saturn × EF Hackathon / Foundathon (2026)
 - **PropVal** - 2nd Place @ UCL, PGIM and ScanSan RealTech Hackathon (2026)
 - **MeritMind** - 1st Place @ Cursor × MiniMax Hackathon - Northampton (2026)
+- **DepDoc** - 2nd Place @ Google IWD hackathon (2026)
+- **GovMind** - 2nd Place @ Encode AI hackathon - Luffa Track (2026)
+- **PATROL** - 1st Place @ Localhost hackathon - Captur Track (2026)
+- **Arbiter** - 1st Place @ Encode Vibe Coding Hackathon - Codeplain track (2026)
 
 ---
 
